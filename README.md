@@ -45,4 +45,4 @@ Contributions to this repository are welcome! Feel free to submit pull requests 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Author
-- [Mohammed Ak Yerima(https://www.linkedin.com/in/mohammed-abba-kaka-a69144195/)
+- [Mohammed Ak Yerima](https://www.linkedin.com/in/mohammed-abba-kaka-a69144195/)
