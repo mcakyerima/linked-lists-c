@@ -3,7 +3,7 @@
 
 This repository contains code examples and resources for learning about linked lists in C.
 
-## Linked List
+## Brief Definition
 Linked lists are a fundamental data structure in computer science that are commonly used in many programming applications. They are particularly useful when you need to frequently add or remove elements from a list, as they allow for efficient memory allocation and deallocation.
 
 ## Table of Contents
