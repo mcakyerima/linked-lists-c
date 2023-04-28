@@ -43,8 +43,8 @@ Here are some basic terms you should be familiar with when working with linked l
 
 - :brain: **Node**: an element in the linked list that contains a piece of data and a pointer to the next node in the list.
 - :point_right: **Pointer**: a variable that stores the memory address of another variable.
-- :first_place_medal: **Head**: the first node in the list.
-- :last_place_medal: **Tail**: the last node in the list (or NULL if the list is empty).
+- 🥇 **Head**: the first node in the list.
+- 🥉 **Tail**: the last node in the list (or NULL if the list is empty).
 - :x: **NULL**: a special value used in C to indicate the absence of a valid memory address.
 
 ## Lesson Plan
